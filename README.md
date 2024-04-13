@@ -1,2 +1,2 @@
 # macular-degeneration-classifiers
-Macular Degeneration Classifiers
+Optimizing Detection of Macular Degeneration Using MLP-headed Data Efficient Image Transformers
